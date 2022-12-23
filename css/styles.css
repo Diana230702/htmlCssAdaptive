@@ -1,0 +1,88 @@
+/* body {
+  text-align: center;
+}
+
+.div1 {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  margin: auto;
+}
+
+.div2 {
+  width: 300px;
+  height: 300px;
+  background-color: green;
+  margin: auto;
+}
+
+.div3 {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  margin: auto;
+}
+
+h3 {
+  background-color: violet;
+  margin: 35% 0;
+} */
+
+/* div {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.div1 {
+  background-color: red;
+}
+
+.div2 {
+  background-color: green;
+  margin-left: 100px;
+}
+
+.div3 {
+  background-color: yellow;
+  margin-left: 200px;
+}
+
+.div4 {
+  background-color: darkviolet;
+  margin-left: 300px;
+} */
+
+form {
+  width: 300px;
+  height: 300px;
+  background: teal;
+  border: 4px solid greenyellow;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+}
+
+input {
+  display: block;
+  background: transparent;
+  border: 2px solid yellowgreen;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+  height: 25px;
+  margin: 5% auto;
+}
+input::placeholder {
+  color: white;
+}
+
+button {
+  background: transparent;
+  border: 2px solid greenyellow;
+  border-radius: 15px;
+  color: white;
+  margin: 0 auto;
+  margin: 30px;
+}
